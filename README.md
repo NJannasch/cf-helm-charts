@@ -5,13 +5,13 @@ A convenient location to publish Cloudflare helm charts
 
 ### Setup
 ```bash
-helm repo add cloudflare https://cloudflare.github.io/helm-charts
+helm repo add nils-cloudflare https://njannasch.github.io/cf-helm-charts/
 helm repo update
 ```
 
 ### Discovery
 ```bash
-helm search cloudflare
+helm search nils-cloudflare
 ```
 
 ### Contents
