@@ -12,4 +12,15 @@ entries:
     urls:
     - cloudflare-tunnel/cloudflare-tunnel-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-07T17:07:59.305781022+01:00"
+  - apiVersion: v2
+    appVersion: 2022.9.0
+    created: "2023-01-07T17:46:44.247909765+01:00"
+    description: Creation of a cloudflared deployment - a reverse tunnel for an environment
+    digest: 1172e9e257605c47782073b14f8190468b61d183078217882158f1abf10bcb43
+    icon: https://developers.cloudflare.com/cloudflare-one/favicon-32x32.png
+    name: cloudflare-tunnel
+    type: application
+    urls:
+    - cloudflare-tunnel/cloudflare-tunnel-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-01-07T17:46:44.247055752+01:00"
